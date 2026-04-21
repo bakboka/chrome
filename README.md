@@ -1,2 +1,2 @@
 # chromes
-A new repository created by Skysize22
+A new repository created by Skysize
